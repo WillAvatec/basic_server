@@ -1,0 +1,17 @@
+{
+  "name": "basic_site",
+  "version": "1.0.0",
+  "description": "A basic informational site to show that a page works, on routing different routes on the server side.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "WillAvatec",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
